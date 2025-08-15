@@ -1,2 +1,9 @@
-discord.py==2.3.1
-requests==2.28.2
+colorama 
+requests 
+pystyle 
+imageio-ffmpeg
+discord.py 
+youtube_dl 
+PyNaCl 
+pypresence nest_asyncio httpx
+audioop
